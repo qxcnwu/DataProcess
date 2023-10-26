@@ -1,0 +1,8 @@
+numpy==1.21.6
+pandas==1.3.4
+Pillow==9.1.1
+Pillow==10.0.1
+pyhdf==0.10.3
+redis==5.0.1
+Requests==2.31.0
+tqdm==4.62.3
